@@ -69,3 +69,5 @@ The odds ratio of 1.542902 shows that women who took the drug were over one and 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The information obtained from the graphical, numerical, and inferential results reflect that triUmpsal is not efficient in preventing women from contracting AIDS.  The results show that women who take the drug are 1.543902 more likely to contract AIDS than those who take the placibo.  Therefore, taking the drug will cause more harm to women than not taking it.  
