@@ -49,7 +49,8 @@ table1 <- xtabs(~infected + treatment, data=women)
 rowPerc(table1)
 colPerc(table1)
 ```
-
+   
+The numerical results reflect that 58.82 percent of women who took the drug were infected with AIDS a opposed to 41.18 who took the placebo.  The results reflect that women who took the drug were more likely to be infected with AIDS than those who took the placebo.  The drug does not show to be beneficial for women in the prevention of contracting AIDS.     
 
 ## Inferential Results
 
@@ -60,7 +61,7 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
-
+   
 
 # Discussion and Conclusion
 
