@@ -62,6 +62,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
    
+The inferential results show p=.00007686.  Since this is a small number it can be concluded that there is a statistical significance for the results obtained.  
+
+The odds ratio of 1.542902 shows that women who took the drug were over one and a half more likely to be infected with AIDS than the women who took the placebo. 
 
 # Discussion and Conclusion
 
