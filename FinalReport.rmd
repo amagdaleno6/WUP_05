@@ -39,6 +39,8 @@ barchartGC(~infected + treatment,data=women, type="percent")
 
 ```
    
+The data observed reflects that the drug is not effective for women in the prevention of AIDS.  A larger percentage of women that took the drug were infected by AIDS than women who took the placebo. 
+   
 ### Numerical Descriptive Results
 
 
